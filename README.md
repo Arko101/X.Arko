@@ -56,7 +56,7 @@ JavaScript (ES6 Modules)
 ├── index.js
 ├── data.js
 ├── styles.css
-└── assets/
+└── images/
 
 
 ⚙️ How to Run X.Arko Locally
